@@ -15,5 +15,14 @@ Visit [Stormbit deck on Cardcast](http://www.cardcastgame.com/browse/deck/TWEUQ)
 If something exists here on this repository but is not included on [Stormbit deck on Cardcast](http://www.cardcastgame.com/browse/deck/TWEUQ) expect it to just "appear" **soon™**
 
 ## How to use this deck
-* You can make a new game on [Pretend You're *Xyzzy*](http://pretendyoure.xyz/zy/) and enter this command to add the deck to your game: ```/addcardcast TWEUQ``` (to remove it do ```/removecardcast TWEUQ``` instead)
-* Visit [Stormbit deck on Cardcast](http://www.cardcastgame.com/browse/deck/TWEUQ) and chose either *"Play on a TV using a chromecast"* or *"Play around a table with a printed deck"*.  
+* ~You can make a new game on [Pretend You're *Xyzzy*](http://pretendyoure.xyz/zy/) and enter this command to add the deck to your game: ```/addcardcast TWEUQ``` (to remove it do ```/removecardcast TWEUQ``` instead)~
+* ~Visit [Stormbit deck on Cardcast](http://www.cardcastgame.com/browse/deck/TWEUQ) and chose either *"Play on a TV using a chromecast"* or *"Play around a table with a printed deck"*.~
+
+Unfortunately, [Cardcast was shut down](https://twitter.com/CardcastGame/status/1261431757380808704?s=20) and people mentioned in this deck aren't really active on the network anymore.  
+I don't know of any other way to utilize this card deck.  
+If you happen to know of one, feel free to update this file or submit your pull request.
+
+## Goodbye
+Some great friendships emerged from this network. Some are still active. Drop a line on IRC when you find the time.
+
+Thank you friends.
